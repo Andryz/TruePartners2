@@ -1,0 +1,88 @@
+{
+  "popup": {
+    "login": {
+      "title": "Log in",
+      "description": "Please login through True Flip or Emojino depending on which brand you work with.",
+      "question": "Don't have an account?",
+      "btn": "Sign up",
+      "tflipHref": "https://affiliates.trueflip.io/#/sign_in",
+      "emojinoHref": "https://affiliates.emojino.com/#/sign_in"
+    },
+    "signup": {
+      "title": "SIGN UP",
+      "description": "Please sign up through True Flip or Emojino depending on which brand do you want to work with.",
+      "question": "Already have an account?",
+      "btn": "Log in",
+      "tflipHref": "https://affiliates.trueflip.io/#/registration",
+      "emojinoHref": "https://affiliates.emojino.com/#/registration"
+    }
+  },
+  "brands": {
+    "trueflip": {
+      "imgs": [
+        {
+          "src": "img/tf/01.png"
+        },
+        {
+          "src": "img/tf/02.png"
+        },
+        {
+          "src": "img/tf/03.png"
+        },
+        {
+          "src": "img/tf/video.png"
+        }
+      ],
+      "topDescripton": "True Flip is a crypto-friendly hybrid casino, offering more than 2000 titles from TOP-providers around the world. The Casino offers a vast range of payment options, personal security features, and 24/7 support on a level unseen for Curacao licensed products. The multi-currency approach and high gamification level put True Flip in the top of both crypto and fiat casino rating lists.",
+      "site": {
+        "text": "trueflip.io",
+        "link": "https://trueflip.io/"
+      },
+      "license": {
+        "src": "img/curacao.png",
+        "link": "https://trueflip.io/license"
+      },
+      "btn": {
+        "text": "Start promoting Trueflip",
+        "link": "https://affiliates.trueflip.io/#/registration"
+      }
+    },
+    "emojino": {
+      "imgs": [
+        {
+          "src": "img/em/01.png"
+        },
+        {
+          "src": "img/em/02.png"
+        },
+        {
+          "src": "img/em/03.png"
+        },
+        {
+          "src": "img/em/video.png"
+        }
+      ],
+      "topDescripton": "Emojino - is a place where players meet real emotions of online gaming. This MGA product is an example of the beautifully crafted, catchy design of the new generation. Combining this look and feel with most of the popular payment methods, gamification, constant promos, and responsive support creates a casino with an absolutely unique experience both for the players and partners.",
+      "site": {
+        "text": "emojino.com",
+        "link": "https://emojino.com/"
+      },
+      "license": {
+        "src": "img/mga.png",
+        "link": "#"
+      },
+      "btn": {
+        "text": "Start promoting Emojino",
+        "link": "https://affiliates.emojino.com/#/registration"
+      }
+    }
+  },
+  "testimonials": [
+    {
+      "name": "askgamblers.com",
+      "link": "https://www.askgamblers.com/online-casinos/true-flip-casino-review/",
+      "src": "img/testimonials/ask.svg",
+      "text": "It’s a great pleasure working with TrueFlip Affiliates and we at AskGamblers are delighted to continue building a long-term and mutually respectful partnership."
+    }
+  ]
+}
