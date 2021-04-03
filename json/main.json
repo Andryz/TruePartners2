@@ -6,6 +6,7 @@
       "question": "Don't have an account?",
       "btn": "Sign up",
       "tflipHref": "https://affiliates.trueflip.io/#/sign_in",
+      "tflipComHref": "http://affiliates.truepartners.io/partner/login",
       "emojinoHref": "https://affiliates.emojino.com/#/sign_in"
     },
     "signup": {
@@ -14,6 +15,7 @@
       "question": "Already have an account?",
       "btn": "Log in",
       "tflipHref": "https://affiliates.trueflip.io/#/registration",
+      "tflipComHref": "http://affiliates.truepartners.io/partner/register",
       "emojinoHref": "https://affiliates.emojino.com/#/registration"
     }
   },
